@@ -1,4 +1,4 @@
-> ### CrudApp Using SpringBoot & ReactJs
+> ## CrudApp Using SpringBoot & ReactJs
 
 This repository contains the source code for a simple CRUD application.
 
