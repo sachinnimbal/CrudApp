@@ -47,3 +47,15 @@ Start the application:
 ```bash
 npm start
 ```
+## Your application should now be running. Open your browser and navigate to http://localhost:3000 (or the specified port) to view it.
+
+## Directory Structure
+```
+CrudApp/
+├── src/
+│   ├── main/
+│   │   ├── resources/
+│   │   └── ...
+│   └── ...
+├── README.md
+└── ...
