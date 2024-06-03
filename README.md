@@ -63,3 +63,33 @@ CrudApp/
 │   └── ...
 ├── README.md
 └── ...
+```
+
+>## Once you run the application in VS Code, you will get the following error:
+```
+Uncaught runtime errors:
+×
+ERROR
+Network Error
+AxiosError: Network Error
+    at XMLHttpRequest.handleError (http://localhost:3000/static/js/bundle.js:65438:14)
+    at Axios.request (http://localhost:3000/static/js/bundle.js:65876:41)
+    at async http://localhost:3000/static/js/bundle.js:467:20
+ERROR
+Network Error
+AxiosError: Network Error
+    at XMLHttpRequest.handleError (http://localhost:3000/static/js/bundle.js:65438:14)
+    at Axios.request (http://localhost:3000/static/js/bundle.js:65876:41)
+    at async http://localhost:3000/static/js/bundle.js:467:20
+```
+### Step 6: Run the Project with Spring Boot
+
+#### You need to run the project inside Spring Tool Suite (STS), IntelliJ IDEA, or Eclipse.
+
+Open your project in your preferred IDE (STS, IntelliJ IDEA, or Eclipse).
+Locate the main class for your Spring Boot application. It should be a class annotated with @SpringBootApplication.
+Run the application using the IDE's run button.
+
+### Step 7: Access the Application
+
+Open your browser and navigate to http://localhost:3000 (or the specified port) to view it.
