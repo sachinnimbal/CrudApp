@@ -7,6 +7,10 @@ This repository contains the source code for a simple CRUD application.
 Make sure you have the following installed on your local machine:
 - [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org/en/download/)
+- [npm](https://www.npmjs.com/get-npm) (comes with Node.js)
+- [Visual Studio Code](https://code.visualstudio.com/) (or any code editor of your choice)
+- [Spring Tool Suite (STS)](https://spring.io/tools) or [IntelliJ IDEA](https://www.jetbrains.com/idea/) or [Eclipse](https://www.eclipse.org/downloads/)
+
 
 ### Getting Started
 
