@@ -4,7 +4,7 @@ This repository contains the source code for a simple CRUD application.
 
 ### Prerequisites
 
-Make sure you have the following installed on your local machine:
+#### Make sure you have the following installed on your local machine:
 - [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org/en/download/)
 - [npm](https://www.npmjs.com/get-npm) (comes with Node.js)
@@ -14,7 +14,7 @@ Make sure you have the following installed on your local machine:
 
 ### Getting Started
 
-Follow these steps to clone the repository and set it up locally.
+#### Follow these steps to clone the repository and set it up locally.
 
 ### Step 1: Clone the Repository
 
@@ -29,15 +29,15 @@ Change into the project directory:
   cd CrudApp
   ```
 ### Step 3: Navigate to the Resources Directory
-1. Change into the src directory:
+##### 1. Change into the src directory:
   ```bash
   cd src
   ```
-2. Change into the main directory:
+##### 2. Change into the main directory:
   ```bash
   cd main
   ```
-3. Change into the resources directory:
+##### 3. Change into the resources directory:
 ```bash
 cd resources
 ```
